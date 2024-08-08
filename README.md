@@ -3,8 +3,8 @@ I am going to try making machine learning models from scratch to understand the 
 
 ### What I hope to learn and make from scratch:
 
-##### Linear Regression
-##### Logistic Regression
-##### Descision Trees
-##### Naive Bayes
-##### Artificial Neural Networks
+#### Linear Regression
+#### Logistic Regression
+#### Descision Trees
+#### Naive Bayes
+#### Artificial Neural Networks
